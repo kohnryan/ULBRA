@@ -1,0 +1,54 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background-color: #e2e2e2;
+}
+
+.divTudo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.divLinha{
+    clear: both;
+}
+#divCabecalho{
+    background-color: #162e58;
+    min-height: 100px;
+    padding: 20px;
+
+}
+ #h1TituloCabecalho{
+     color: #fff;
+    font-size: 16px;
+    text-align: left;
+ }
+ #divClassificacao{
+     background-color: #fff;
+     width: 60%;
+     
+ }
+ .tableJogos{
+     width: 100%;
+ }
+ #divGoleadores{
+     background-color: #fff;
+     width: 60%;
+
+ }
+ #tableGoleadores{
+     width: 100%;
+ }
+ #divJogos{
+     background-color: #fff;
+     width: 60%;
+
+ }
+ #tableJogos{
+     width: 100%;
+     
+ }
+ th, td{
+     border: 1px solid;
+ }
+    

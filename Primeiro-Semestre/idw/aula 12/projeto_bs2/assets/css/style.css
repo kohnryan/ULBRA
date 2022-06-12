@@ -1,0 +1,66 @@
+a {
+    text-decoration: none;
+    color: #8b8b8b;
+  }
+  
+  
+.cabecalho {
+    background-color: #666;
+  }
+.nome {
+    color: #666;
+  }
+.nome:hover {
+    color: #666;
+  }
+  
+.nav-item a {
+    color:#faebd7;
+  }
+  
+@media (max-width: 800px) {
+    .cabecalho {
+      padding: 1rem 0rem !important;
+    }
+  }
+  
+.conteudo-perfil {
+    background-color: #00dbbe;
+  }
+.conteudo-perfil img {
+    max-width: 14rem;
+  }
+  
+.find-me {
+    background-color:#3f3f3fbe;
+    color: #ffffff
+  }
+.find-me a i {
+    box-shadow: 0rem 0rem 0.2rem #838383;
+    padding: 0.5rem 1rem;
+  }
+  
+.pintor {
+    background-image: url("../img/pintor-90891821.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 14rem;
+    box-shadow: 0rem 0rem 0.4rem #525252;
+  }
+.estudo {
+    background-image: url("../img/Analise-e-Desenv-de-Sistemas.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 16rem;
+    box-shadow: 0rem 0rem 0.4rem #525252;
+  }
+ 
+  
+.rodape {
+    background-color:#666;
+  }
+

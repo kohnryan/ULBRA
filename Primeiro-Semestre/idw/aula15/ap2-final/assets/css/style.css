@@ -1,0 +1,22 @@
+
+.menu {
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    padding: 1.5rem; 
+}
+
+
+.banner {
+    background-image: url(/assets/img/banner.jpg);
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+}
+
+.principal h2{
+    color: rgba(0, 0, 0, 0.541176);
+    font-size: 28px;
+    margin-top: 8px;
+    margin-bottom: 22px;
+}

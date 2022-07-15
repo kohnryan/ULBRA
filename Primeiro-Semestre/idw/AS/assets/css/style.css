@@ -1,0 +1,291 @@
+.imagem_home{
+    
+    background-image: url(/assets/img/logo01.jpg);
+    
+    height: 200px;
+    width: 100%;
+}
+
+.img-1{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 10rem;
+    background-image: url("../img/anúncio01.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.img-2{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 10rem;
+    background-image: url("../img/anúncio02.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.img-3{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 10rem;
+    background-image: url("../img/anúncio03.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.img-4{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 10rem;
+    background-image: url("../img/anúncio04.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem;
+}
+
+.img-5{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 10rem;
+    background-image: url("../img/anúncio05.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem;
+}
+
+.img-6{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 10rem;
+    background-image: url("../img/anúncio06.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem;
+}
+
+.imagem_sobre{
+    display: block;
+    content: "";
+    width: 150%;
+    height: 20rem;
+    background-image: url("../img/logo01.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem;
+}
+.anuncio-1{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio01.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-2{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio02.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-3{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio03.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-4{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio04.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-5{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio05.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-6{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio06.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-7{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio07.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-8{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio8.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-9{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio09.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-10{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio10.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-11{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio11.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-12{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio12.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-13{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio13.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-14{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio14.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-15{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio15.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.anuncio-16{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 20rem;
+    background-image: url("../img/anúncio16.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.2rem; 
+}
+
+.btn{
+    width: 40%;
+    height: 6%;
+}
+
+.contatos{
+    text-align: center;
+}
